@@ -12,7 +12,10 @@ int main(void)
      * 이 아래에 작성해봅시다.
      */
 
-
+    for (i = 1; i <= 9; i++)
+    {
+        printf("%d * %d\n", input, i);
+    }
     
 
 
