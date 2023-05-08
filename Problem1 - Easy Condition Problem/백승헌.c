@@ -12,6 +12,12 @@ int main(void)
      * 
      * 이 아래에 작성해봅시다.
      */
+    if (input % 2 != 0) {
+        printf("ODD\n");
+    }
+    else {
+        printf("EVEN\n");
+    }
 
     
 
